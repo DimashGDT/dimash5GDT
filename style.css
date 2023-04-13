@@ -1,0 +1,20 @@
+body { font-family: Arial, Verdana;
+  font-size: 11pt;
+  padding-left: 90px;
+  padding-top: 10px;
+  background-image: url("https://phonoteka.org/uploads/posts/2021-05/1620314491_33-phonoteka_org-p-fon-voina-vertikalnii-36.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white
+
+}
+p{
+  font-size: 17pt;
+  color:white
+   
+}
+
+h1{
+  font-size: 20pt;
+  padding-left: 500px;
+}
