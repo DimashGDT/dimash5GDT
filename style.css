@@ -9,12 +9,17 @@ body { font-family: Arial, Verdana;
 
 }
 p{
-  font-size: 17pt;
+  font-size: 15pt;
   color:white
    
 }
-
+td{
+  border: 1px solid black;
+  align-items: baseline;
+  vertical-align: top;
+  padding: 5px;
+}
 h1{
   font-size: 20pt;
-  padding-left: 500px;
+  text-align: center;
 }
